@@ -8,7 +8,7 @@ Puis excecuter `pip install -r requirements.txt` afin d'installer les paquets re
 
 <h1>2. Utilisation</h1>
 
-Pour lancer le programme : tapez ``python fuel-finder.py`.
+Pour lancer le programme : tapez `python fuel-finder.py`.
 
 Saisissez la ville dans la quelle vous souhaitez trouver des stations essence.
 
