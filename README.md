@@ -18,3 +18,6 @@ Vous pouvez choisir d'afficher une ou plusieurs stations.
 NB: Il se peut que toutes les stations ne soient pas affichées. Les données proviennent du site officiel du gouvernement (https://www.prix-carburants.gouv.fr/)
 
 
+Prochaine mises à jour prévues : 
+- Ajout du fait de pouvoir afficher les prix d'un des stations séléctionnée.
+- Pouvoir ouvrir dans Google Maps une station séléctionnée
